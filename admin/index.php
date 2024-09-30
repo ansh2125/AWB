@@ -3,7 +3,7 @@
   ************************************************************
   *                        AWB                                 *
   *                       Copyright                              *
-  *   Gyan Prakash Pandey   *   Ansh Shukla   *   Shiwan Tripathi   *
+  *   Gyan Prakash Pandey   *   Ansh Shukla   *   Shivam  Tripathi   *
   *   Code is open source, but please do not remove this credit. *
   ************************************************************
 */?>
@@ -210,7 +210,7 @@
   ************************************************************
   *                        AWB                                 *
   *                       Copyright                              *
-  *   Gyan Prakash Pandey   *   Ansh Shukla   *   Shiwan Tripathi   *
+  *   Gyan Prakash Pandey   *   Ansh Shukla   *   Shivam Tripathi   *
   *   Code is open source, but please do not remove this credit. *
   ************************************************************
 */?>
